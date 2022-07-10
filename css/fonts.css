@@ -1,0 +1,11 @@
+/* Tajwal Font */
+@font-face {
+    src: url('../fonts/Tajawal.ttf');
+    font-family: "Tajwal";
+}
+
+/* Bebas Neue Font */
+@font-face {
+    src: url('../fonts/BebasNeue-Regular.ttf');
+    font-family: "Bebas Neue";
+}
